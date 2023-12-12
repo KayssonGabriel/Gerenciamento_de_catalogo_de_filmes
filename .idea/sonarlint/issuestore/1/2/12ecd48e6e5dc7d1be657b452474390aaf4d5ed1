@@ -1,0 +1,17 @@
+
+r
+java:S1104"PMake raiz a static final constant or non-public and provide accessors if needed.(Ä”¯¹úÿÿÿÿ8µµ„ÕÅ1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ÏıÅ
+t
+java:S3776["RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÆÄƒøÿÿÿÿ8Èµ„ÕÅ1
+Z
+java:S1854l"8Remove this useless assignment to local variable "temp".(Éêàüÿÿÿÿ8Èµ„ÕÅ1
+M	java:S106‘"+Replace this use of System.out by a logger.(ªÌğˆıÿÿÿÿ8Ìµ„ÕÅ1
+M	java:S106š"+Replace this use of System.out by a logger.(ªÌğˆıÿÿÿÿ8Ïµ„ÕÅ1
+M	java:S106£"+Replace this use of System.out by a logger.(ªÌğˆıÿÿÿÿ8Ğµ„ÕÅ1
+H	java:S106À"+Replace this use of System.out by a logger.(Éğ8Õµ„ÕÅ1
+M	java:S106Â"+Replace this use of System.out by a logger.(Œ“¡Æıÿÿÿÿ8Öµ„ÕÅ1
+M	java:S106Å"+Replace this use of System.out by a logger.(üøŒ„ûÿÿÿÿ8Öµ„ÕÅ1
+H	java:S106È"+Replace this use of System.out by a logger.(×ŞåÓ8Öµ„ÕÅ1
+H	java:S106Ñ"+Replace this use of System.out by a logger.(×õôş8×µ„ÕÅ1
+M	java:S106Ø"+Replace this use of System.out by a logger.(ú»‡Éıÿÿÿÿ8Øµ„ÕÅ1
